@@ -1,3 +1,3 @@
 blog
 ====
-<a href="https://wbl1996.github.com">点击访问</a>
+<a href="https://wbl1996.github.io">点击访问</a>
